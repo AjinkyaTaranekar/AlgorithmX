@@ -73,9 +73,9 @@ dhoni tweet_id_14
 
 **Output**
 ```
+dhoni 4
 sachin 2
 sehwag 2
-dhoni 4
 ```
 
 
