@@ -1,5 +1,3 @@
-package Lecture27;
-
 //time complexity: O(n)
 // it has better space complexity than fibonacciDyanamicProg.java using recursive apporach, though time
 // complexity is same using DP approach.
