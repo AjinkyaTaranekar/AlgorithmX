@@ -1,3 +1,14 @@
+'''
+Find the minimum window in s which will contain all the characters in t in complexity O(n)
+
+Test Case
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+
+Runtime: 24 ms
+
+'''
+
 from collections import defaultdict
 
 class Solution:
